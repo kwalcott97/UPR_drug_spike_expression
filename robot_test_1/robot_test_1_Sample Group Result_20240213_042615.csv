@@ -1,0 +1,26 @@
+# File Name: robot_test_1.eds
+# Comment: 
+# Operator: DEFAULT
+# Barcode: 
+# Instrument Type: QuantStudio™ 5 System
+# Block Type: 384-Well Block
+# Instrument Name: 272530695
+# Instrument Serial Number: 272530695
+# Heated Cover Serial Number: 
+# Block serial number: 
+# Run Start Date/Time: 2024-02-07 08:52:38 PM UTC
+# Run End Data/Time: 2024-02-07 10:38:34 PM UTC
+# Run Duration: 105 minutes 56 seconds
+# Sample Volume: 10.0
+# Cover Temperature: 105.0
+# Passive Reference: ROX
+# PCR Stage/Step Number: Stage 2 Step 2
+# Melt Stage Number: 3
+# Quantification Cycle Method: CT
+# Analysis Date/Time: 2024-02-13 04:25:06 AM UTC
+# Software Name and Version: Design & Analysis Software v2.7.0
+# Plugin Name and Version: Primary Analysis v1.8.0, Relative Quantification v1.6.0
+# Reduce dye signal crosstalk by algorithm: No (Default)
+# Exported By: guest
+# Exported On: 2024-02-13 04:26:15 AM UTC
+"Biological/Sample Group","Target","EqCq Mean","Adjusted EqCq Mean","Delta EqCq Mean","Delta EqCq SD","Delta EqCq SE","Delta Delta EqCq","Rq","Rq Min","Rq Max"
